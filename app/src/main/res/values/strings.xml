@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FoodAppFragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo">TODO</string>
+    <string name="theoptimust_menu">TheOptimust Menu</string>
+    <string name="action_switch">Action Switch</string>
+</resources>
